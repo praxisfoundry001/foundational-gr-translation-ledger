@@ -1,0 +1,782 @@
+﻿Foundational GR Translation Ledger under Structural Flow
+A Role-Shape and Equation-Shape Support Artifact for the Light-Probe Experiment Packet
+I. What This Ledger Is For
+This ledger is a translation-control artifact.
+It does not propose the immiscible-fluid light-probe experiment. It does not supply the operator or confound-control matrix for that experiment. It does not claim to derive General Relativity from Structural Flow. Its narrower purpose is to make GR-facing language usable inside the broader research packet without overstating what has been earned.
+The central discipline is simple:
+this ledger translates structural roles, not measured empirical content.
+General Relativity contains equations, constants, tensors, conservation structures, action principles, boundary terms, continuation laws, and curvature objects. This ledger does not claim to close all of them. It asks a more limited question: what structural role does each major GR-facing object play, and how far can that role be responsibly translated under the current Structural Flow physics stack?
+That makes the result a ledger, not a proof of full closure. A proof would have to derive the complete formal and empirical machinery. A ledger does something different. It records what is available, what is only role-shaped, what remains open, and what must not yet be claimed.
+That distinction matters because the work is strong only if it refuses two opposite errors. It must not underclaim by pretending that no GR-facing structure has become legible. But it also must not overclaim by treating role-shape translation as full physical derivation. The ledger’s job is to hold the middle honestly.
+The governing distinction is between Level 1 and Level 2.
+Level 1 concerns form, role, relation, and equation architecture. At Level 1, one may ask why a geometry-response side is needed, why a source-profile side is needed, why those sides must face each other, why a coupling package is required, why conservation compatibility matters, why boundary residue must belong to the whole accounting object, why continuation belongs downstream of geometry-state, and why source-facing curvature does not exhaust all curvature.
+Level 1 is about the shape of the mathematical architecture. It is not yet about measured values.
+Level 2 concerns empirical content: measured constants, exact coefficients, specific source fields, matter models, boundary conditions, exact solutions, and observed physical systems. At Level 2, one asks for the measured value of G, the measured value of c, the exact stress-energy tensor T_μν for a given system, the value and interpretation of Λ, the relevant matter Lagrangian, the applicable boundary conditions, the exact metric solution, and the observational data.
+This ledger works primarily at Level 1. It may translate a role without claiming to derive the full measured object. It may identify why a kind of relation is needed without claiming to know every coefficient, value, boundary condition, or empirical source term.
+The rule is:
+Level 1 may identify the structural role. Level 2 must supply measured physical content.
+Confusing those levels would make the ledger overclaim.
+Within that discipline, this artifact may translate foundational GR-facing objects at role-shape, equation-shape, relation-shape, and ratio-role scope.
+It may translate the Einstein field equation, G_μν = κT_μν​, as a relation in which source-facing geometry-response equals a source/geometry relation package times geometry-facing source-profile.
+It may translate κ, κ = 8πG / c⁴, as a source/geometry relation package. That translation does not derive the measured values of G, c, or κ. It identifies the ratio-role structure: all-directional source/geometry normalization, substrate responsivity, and source-profile conversion.
+It may translate the baseline term, G_μν + Λg_μν = κT_μν​, as geometry-response plus metric-proportional baseline geometry response facing source-profile. That does not derive the value, sign, placement, or physical interpretation of Λ.
+It may translate whole-action architecture, S ∼ ∫ R√|g| d⁴x + S_source + S_boundary as geometry report plus source report plus boundary accounting. That does not close the full Einstein-Hilbert action proof, the full source action, or the exact boundary term.
+It may translate conservation compatibility, ∇^μG_μν = 0 and ∇^μT_μν = 0 as no-leak compatibility between geometry-response and source-profile. That does not derive full physical conservation dynamics.
+It may translate the geodesic or continuation layer, ∇_u u = 0, as preferred continuation centerline on the load-conditioned geometry host. That does not claim a complete motion theory or full solution theory.
+It may translate the Weyl or curvature-remainder role as the fact that source-facing geometry is not all geometry. That does not close the full Weyl formalism, gravitational-wave behavior, tidal-effect theory, or vacuum solution structure.
+It may translate boundary accounting through the rule: if the whole selects the law, the boundary belongs to the whole. That closes the role-need for boundary accounting at this scope. It does not close the exact boundary term, coefficient, sign, orientation convention, or boundary-condition class.
+These translations are meaningful. They make GR-facing structure legible under Structural Flow. But they are not full closure. They state what the objects are doing structurally, not every formal, empirical, or physical detail they contain.
+The ledger therefore must keep its non-claims visible.
+It does not claim full derivation of General Relativity. It does not replace classical GR. It does not close the Einstein-Hilbert action, source action, physical conservation, exact boundary terms, measured constants, empirical stress-energy content, matter Lagrangians, metric solutions, cosmology, photon theory, full optics, QED, quantum gravity, or Planck-scale physics. It does not claim that every GR equation has already been translated.
+It claims only this:
+foundational GR equations and equation-families can be translated at role-shape, equation-shape, ratio-role, and relation-shape scope using the current Structural Flow physics stack.
+That is enough for this artifact. The value of the ledger is not that it proves too much. The value is that it keeps translation honest.
+The posture is therefore:
+translate where the role is earned;
+mark open where empirical or formal closure remains;
+do not smuggle measured content into structural form.
+For the light-probe experiment packet, this matters practically. The experiment artifact asks whether independently classified immiscible-fluid failure regimes produce distinguishable optical profile families when light is used as a probe. The operator/confound appendix asks how those profile families should be technically distinguished and protected from ordinary confounds. This GR translation ledger asks a different question: what GR-facing and effective-geometry language may be used to discuss optical continuation, geometry-state, admissibility, and curvature-response without claiming full GR optics or full GR closure?
+The three artifacts therefore have different burdens. The experiment states the falsifiable prediction. The operator/confound appendix sharpens the local testing discipline. This ledger controls the GR-facing translation layer.
+This ledger should not swallow the experiment. It supports the packet by explaining which GR-facing structures are available as translation tools, which uses are responsible, and where the limits remain.
+The compressed rule for the whole artifact is:
+GR-facing equations can be read as structural accounting roles, but role-shape translation is not full derivation.
+II. The GR Translation Surface
+This ledger does not reload the entire Structural Flow physics stack every time it translates a GR-facing object. It uses a smaller translation surface.
+That surface is not the whole theory. It is the minimum set of Structural Flow and GR-facing roles needed to keep the translation stable. Without such a load pack, the artifact would either drift into unrelated physics closures or repeat the same foundations before every equation. The ledger needs enough structure to translate responsibly, but not so much that every section reopens the entire program.
+The active translation surface is:
+* density-held spacetime = shared substrate
+* gravity = substrate-tier organizer
+* interaction-tier source family = source-content supply
+* Recognition = lawful comparison and transport
+* Coherence = whole-owned accounting
+* GR = lawful ordering of admissible carry-forwards
+* G_μν = source-facing geometry-response
+* T_μν = geometry-facing source-profile
+* κ = source/geometry relation package
+* geodesic equation = preferred continuation centerline
+* local admissibility = room around continuation
+* Weyl / curvature remainder = geometry not locally exhausted by source
+The compression is:
+load constrains geometry; geometry orders continuation; Coherence holds the accounting whole.
+That is the surface on which this ledger works.
+Density-held spacetime is the shared substrate. In Structural Flow terms, density is bounded holdability of interaction-conditioned structure. In the current physics stack, density-held spacetime is the substrate in which physical structure can persist, carry consequence, and remain available for further interaction.
+For this ledger, the point is simple: spacetime is treated as the shared density-held substrate, not as an unexplained primitive imported from nowhere. This does not replace classical spacetime mathematics. It gives a Structural Flow role translation for what spacetime is doing in the physical architecture.
+GR-facing objects such as geometry-response, curvature, continuation, boundary accounting, and source/geometry relation all operate on this shared substrate. Without the shared substrate, there is no common surface on which geometry-response and source-profile can face one another.
+Gravity is the organizer of that substrate.
+This ledger does not treat gravity as a peer interaction alongside strong, electromagnetic, and weak interaction lines. Gravity has a different structural job. It is the substrate-tier organizer: the organizing relation by which accumulated persistence-bearing load conditions the shared density-held spacetime substrate.
+Plainly: gravity organizes the shared substrate under load.
+That is why gravity is central to the GR translation. The Einstein field equation is not read here as one more force equation. It is read as a geometry/source accounting relation in which load-conditioned source-profile and geometry-response must face each other as one lawful relation.
+This also explains why continuation belongs downstream of geometry-state. The same geometry conditioned by load is the geometry that orders admissible continuation. If load constrains one geometry but continuation uses another, the GR translation fails at the same-state handoff.
+The shorter rule is:
+load constrains geometry; the same geometry orders continuation.
+The interaction-tier source family supplies source-content.
+At the current Structural Flow physics scope, the interaction-tier family is strong, electromagnetism, and weak. These are not treated as gravity’s peer category in this ledger. Gravity organizes the substrate. The interaction-tier lines supply physical source-content that may become relevant to geometry as source-profile.
+At role-shape scope, interaction-tier structure becomes GR-relevant when it presents as geometry-facing source-profile. In classical GR language, that source-profile is matched by T_μν.
+This ledger does not derive full matter content. It does not derive all source fields, stress-energy distributions, equations of state, particle models, or empirical matter Lagrangians. It preserves one narrower role: source-content must become presentable to geometry as a geometry-facing profile.
+Recognition supplies lawful comparison.
+It is the hinge by which carried content can remain the same binding content across locally variable descriptions, positions, frames, or uptake surfaces. In GR-facing language, Recognition supports covariant comparison and lawful transport.
+That matters because geometry, vectors, tensors, paths, and source profiles cannot be compared naively across different locations or descriptions. A comparison must preserve what is structurally the same while allowing local expression to vary. Otherwise the ledger would confuse real difference with mere redescription.
+For this artifact, Recognition supports comparison between neighboring points, lawful transport of geometric or physical quantities, covariant preservation of the same relation under redescription, and the same-state handoff from load-conditioned geometry to continuation-ordering geometry.
+Recognition does not itself supply the whole equation. It supplies the comparison discipline that lets the related objects remain lawfully comparable.
+Plainly: Recognition makes comparison legitimate.
+Coherence supplies whole-owned accounting.
+It is the hinge by which already-recognized local structure becomes one jointly holdable system or relation with shared invariants. For this ledger, Coherence is what allows an equation to be more than two expressions placed beside one another.
+The Einstein field equation requires this. G_μν and T_μν may each be intelligible on their own. But the equation requires them to be held as one whole-owned accounting relation. Geometry-response and source-profile must belong to one lawful accounting whole.
+Without Coherence, the relation becomes adjacency. The left side and right side may both exist, but they do not become one equation.
+Plainly: Recognition prepares lawful comparison; Coherence holds the relation as one.
+With the substrate, organizer, source family, Recognition, and Coherence in place, the ledger can state the GR-side object it is allowed to use.
+For this artifact, GR is treated as the lawful ordering of admissible carry-forwards on the gravity-organized substrate.
+That means GR is not merely “curvature exists.” It is not merely “paths bend.” It is not merely “matter affects geometry.” Those phrases may point toward GR, but they do not state the object sharply enough for this ledger.
+The GR object, at this scope, is the condition under which one shared load-conditioned geometry-state constrains what continuations remain admissible on the common substrate.
+The relevant flow is:
+source-load → geometry-state → lawful comparison → admissible continuation
+Or more simply:
+load constrains geometry; geometry orders continuation.
+A carry-forward is admissible when it remains within the persistence-bearing boundary conditions imposed by the current load-conditioned geometry-state. The geometry does not merely sit in the background. It constrains what can lawfully continue.
+This ledger does not claim full GR derivation. It translates the structural role of GR as an ordering architecture: the state of the geometry constrains what can lawfully continue on the shared substrate.
+That is enough structure to begin the central translation.
+The next question is how the Einstein field equation should be read on this surface. In the ledger’s compressed language, the answer will be:
+geometry answers; source presents; κ packages; Coherence holds.
+III. The Einstein Field Equation as the Central Facing Relation
+The primary GR-facing relation in this ledger is the Einstein field equation:
+G_μν = κT_μν
+At the level of this translation ledger, the equation is read as:
+source-facing geometry-response = source/geometry relation package × geometry-facing source-profile
+This is not a claim of full General Relativity closure. It is a role-shape and equation-shape translation. The equation is important because it joins two different burdens. The left side carries geometry-response. The right side carries source-profile. κ packages the relation between them. Coherence holds the relation as one accounting whole.
+In compressed form:
+geometry answers; source presents; κ packages; Coherence holds.
+The left side of the equation is G_μν. This ledger translates G_μν as source-facing geometry-response.
+The phrase “source-facing” matters. Geometry by itself is too broad. Full geometry contains more than the local source-facing response. The left side of the Einstein field equation does not present all possible geometry. It presents geometry in a form disciplined enough to answer source-profile.
+The geometry side must satisfy two conditions.
+First, it must remain geometry. It cannot collapse into source-language. It must still report something about curvature, geometry-response, and the state of the shared substrate.
+Second, it must become answerable to source. It cannot remain so rich, closed, or unshaped that source-content has no lawful way to face it.
+The left-side burden is therefore:
+geometry must answer source without ceasing to be geometry.
+If this fails, geometry may still exist as a meaningful object, but it cannot stand as the left side of the facing relation. The failure is not that geometry disappears. The failure is that geometry cannot report a source-facing response.
+That is why G_μν is the role-shaped object at this seam. It is the geometry side shaped into a response that can face source-profile.
+The right side of the equation is T_μν. This ledger translates T_μν as geometry-facing source-profile.
+The phrase “geometry-facing” matters. Source-content by itself is too broad. Physical content may appear as bound interiority, outward difference propagation, identity-state passage, matter fields, energy, pressure, stress, motion, or other source-relevant structures. But the Einstein field equation requires source-content in a form geometry can answer.
+The source side must also satisfy two conditions.
+First, it must remain source. It cannot collapse into geometry-language. It must still preserve the burden of physical source-content.
+Second, it must become presentable to geometry. It cannot remain scattered, merely local, unprofiled, or unavailable to the geometry side.
+The right-side burden is therefore:
+source must present to geometry without ceasing to be source.
+If this fails, source-content may still exist as meaningful physical content, but it cannot stand as the right side of the facing relation. The failure is not that source disappears. The failure is that source cannot present as geometry-facing profile.
+That is why T_μν is the role-shaped object at this seam. It is the source side shaped into a profile that geometry can answer.
+The equation is not simply:
+G_μν = T_μν
+It is:
+G_μν = κT_μν
+κ is the source/geometry relation package.
+At this scope, κ is not treated as a measured constant whose value has been derived by Structural Flow. Its measured value belongs to empirical physics. This ledger does not derive that value.
+The role of κ is narrower. κ packages the conversion between geometry-response and source-profile. The two sides do not naturally share the same units, scale, or expression. Source-profile must become answerable as geometry-response, and geometry-response must answer source-profile in a lawful accounting relation. κ carries that relation burden.
+Classically:
+κ = 8πG/c⁴
+This ledger treats that package more carefully in the next section. For now, the important point is that κ is not decorative. It is what allows the source-profile side and geometry-response side to meet in one equation without pretending they are already the same kind of object.
+The equation also requires more than a left side, a right side, and a relation package. It requires equationhood.
+G_μν can be intelligible by itself. T_μν can be intelligible by itself. κ can be intelligible as a relation package. But the equation exists only if the sides are held as one lawful accounting relation.
+That is the Coherence burden.
+Coherence does not mean the sides become identical in content. Geometry-response remains geometry-response. Source-profile remains source-profile. κ remains the relation package. Coherence means the relation itself becomes one jointly holdable whole.
+Without Coherence, the equation collapses into adjacency. The ledger would have a geometry-side object, a source-side object, and a coupling package, but not yet one equation.
+The equationhood burden is therefore:
+geometry-response and source-profile must be held as one source/geometry accounting relation.
+If this fails, the left side may still be meaningful. The right side may still be meaningful. The relation package may still be interpretable. But the equation does not hold as one lawful accounting whole.
+This is the central failure seam.
+The Einstein field equation fails when geometry-response and source-profile remain individually intelligible, but cannot be held as one lawful mutual-facing accounting relation.
+Plainly:
+geometry can no longer answer source, and source can no longer present to geometry as one equation.
+That failure is distinct from the failure of other GR-facing objects. The Einstein-Hilbert action fails upstream if the field law is not whole-selected by variation. The Bianchi identity fails as geometry-side accounting compatibility. Conservation of T_μν fails as source-side compatibility. The Riemann tensor fails if full curvature state cannot be expressed. The Weyl tensor fails if non-source-facing curvature remainder is erased. The geodesic equation fails downstream if preferred continuation cannot be expressed.
+The Einstein field equation fails at the facing seam itself.
+That is why this ledger treats it as the primary equation-level Rosetta candidate. It is not selected because it is familiar. It is selected because its failure location matches the translation burden: source-facing geometry-response and geometry-facing source-profile must face each other as one lawful accounting relation.
+This translation earns a disciplined role-shape reading of the Einstein field equation. It allows the equation to be read as:
+trace-disciplined, source-facing geometry-response equals source/geometry relation package times geometry-facing source-profile.
+It also gives a clean failure test. The translation fails if geometry-response and source-profile remain individually intelligible but cannot be held as one mutual-facing accounting relation.
+That is stronger than casual analogy because the sides, relation package, facing conditions, and equationhood failure are each named.
+But it is not full derivation.
+The ledger has not derived the complete Einstein equation from first principles. It has not derived κ’s measured value. It has not derived full empirical T_μν. It has not derived the full action. It has not derived exact solutions. It has not closed Level 2 physical content.
+The current status is:
+role-shape and equation-shape translation available; full formal and empirical closure open.
+The translation can be compressed this way:
+* G_μν = source-facing geometry-response
+* T_μν = geometry-facing source-profile
+* κ = source/geometry relation package
+* G_μν = κT_μν = geometry-response and source-profile held as one whole-owned accounting relation
+Or, in the shortest usable form:
+geometry answers; source presents; κ packages; Coherence holds.
+IV. κ as the Source/Geometry Relation Package
+The Einstein field equation is not simply a statement that geometry and source are related.
+It states that geometry-response and source-profile face each other through a relation package:
+G_μν = κT_μν
+The package is κ.
+Classically:
+κ = 8πG / c⁴
+This ledger does not claim to derive the measured value of κ. It does not claim to derive G. It does not claim to derive c. It does not claim to derive the empirical source content that appears in T_μν.
+Its claim is narrower:
+κ has a translatable role as the package that lets source-profile and geometry-response meet in one equation.
+Without κ, the equation would falsely place geometry-response and source-profile beside one another as though they already shared the same scale, unit burden, and physical expression. They do not. Geometry-response and source-profile are different kinds of reports. The equation needs a relation package because one side must become answerable to the other without either side ceasing to be itself.
+Plainly:
+κ tells the equation how source shows up as geometry-response.
+That is the role being translated here.
+At role-shape scope, the classical package can be read as three bundled burdens:
+Package element
+	Role-shape translation
+	Plain-language meaning
+	8π
+	two-sided all-directional source/geometry normalization
+	source and geometry do not face each other along one private line; the relation is distributed across a full surrounding accounting surface
+	G
+	substrate responsivity
+	how strongly the gravity-organized shared substrate responds geometrically to source-profile
+	c⁴
+	full source-profile conversion
+	the conversion burden required for source-content to present as geometry-facing profile in relativistic accounting
+	This table is not a derivation of measured values. It is a ratio-role translation.
+The point is not:
+Structural Flow has derived 8π, G, and c⁴.
+The point is:
+the κ package is not arbitrary decoration. Its parts have role-shaped burdens in the source/geometry relation. The package combines normalization, responsiveness, and conversion. That is enough for this ledger’s scope.
+The first burden is carried by 8π.
+The 8π factor is treated here as two-sided all-directional source/geometry normalization. This ledger does not derive the exact numerical factor. It translates why a normalization role of this kind belongs in the relation at all.
+Geometry-response is not a one-dimensional answer to a one-dimensional source. The source/geometry relation is distributed through a surrounding geometry-facing context. The equation must account for the way source-profile is related to geometry-response across the relevant all-directional surface of the shared substrate.
+Plainly:
+source and geometry face each other around a whole surrounding relation, not along one isolated line.
+That is the role-shape burden of 8π.
+This does not close the formal derivation of 8π. It does not replace classical derivations. It does not claim the number can be recovered without the relevant geometric and empirical structure. It says only that an all-directional normalization role belongs in the package that lets source-profile face geometry-response.
+The second burden is carried by G.
+G is treated here as substrate responsivity. In classical physics, G is the gravitational constant. This ledger does not derive its measured value.
+At role-shape scope, G marks how strongly the gravity-organized shared substrate responds geometrically to source-profile.
+Plainly:
+G belongs to the question of how responsive the shared substrate is to load.
+If source-profile is present, geometry-response is not automatic in scale. The substrate must have a stable responsiveness to source-profile. That responsiveness is what the role of G marks in this ledger.
+This does not mean Structural Flow has derived G. It means the ledger can say what kind of role G plays in the relation:
+G carries the substrate-response strength needed for source-profile to become geometry-effective.
+The measured value remains Level 2 empirical content.
+The third burden is carried by c⁴.
+The denominator c⁴ is treated here as the full source-profile conversion burden. This ledger does not derive c. It does not derive c⁴. It does not claim to close relativity from Structural Flow alone.
+At role-shape scope, c⁴ marks that source-content must be converted into the form required to face geometry-response in relativistic accounting.
+Plainly:
+source-content must be expressed in the right geometry-facing units before it can stand on the source side of the equation.
+The fourth power matters classically because stress-energy, geometry, units, and relativistic scaling are not one-dimensional conversion problems. But the ledger’s claim stays modest:
+c⁴ carries the full conversion burden by which source-profile becomes comparable to geometry-response.
+The measured value and deeper physical status of c remain outside this ledger’s closure.
+Together, these three burdens explain what κ does in the equation.
+8π normalizes the source/geometry relation across the relevant all-directional accounting surface.
+G supplies stable substrate responsivity.
+c⁴ supplies full source-profile conversion.
+κ packages those burdens so that T_μν can face G_μν as geometry-effective source-profile.
+That means the right side of the field equation is not just T_μν. It is κT_μν.
+T_μν supplies the geometry-facing source-profile. κ packages that profile so it can face geometry-response at the scale, normalization, and conversion required by the equation.
+Without κ, source-profile may be present, but it is not yet relation-ready. It has not been normalized, scaled, and converted into the form required to answer geometry.
+So the field equation does not say merely:
+geometry-response = source-profile
+It says:
+geometry-response = packaged geometry-facing source-profile
+or:
+G_μν = κT_μν
+This also gives κ its own failure test.
+κ-level failure occurs when 8π, G, and c⁴ remain individually intelligible but do not assemble into one relation package that makes source-profile geometry-effective.
+The pieces can exist without becoming κ.
+If 8π is present but G is missing, the relation may be normalized but not responsively coupled.
+If G is present but c⁴ is missing, the substrate may have responsivity, but source-content cannot fully present as geometry-facing source-profile.
+If c⁴ is present but 8π is missing, source-profile conversion may exist, but the geometry-side relation is not fully normalized as a two-sided all-directional facing relation.
+If all three are present but do not assemble as one package, the equation still does not have a lawful source/geometry relation package.
+Coherence licenses κ only when normalization, responsivity, and conversion are held together as one source/geometry relation package.
+Plainly:
+the package holds because its parts do different jobs in one relation.
+The current status is therefore:
+Item
+	Role-shape translation
+	Status
+	κ
+	source/geometry relation package
+	ratio-role available
+	8π
+	two-sided all-directional normalization
+	role-shape available; exact derivation open
+	G
+	substrate responsivity
+	role-shape available; measured value open
+	c⁴
+	full source-profile conversion
+	role-shape available; measured value open
+	The non-claims must remain visible.
+This ledger does not derive the numerical value of κ. It does not derive the numerical value of G. It does not derive the numerical value of c. It does not derive the speed of light. It does not derive Newtonian gravity. It does not provide a full Newtonian-limit proof. It does not complete the Einstein equation. It does not derive empirical source content. It does not close quantum gravity or Planck-scale physics.
+It claims only this: κ has a translatable ratio-role as the source/geometry relation package:
+κ = 8πG / c⁴
+where 8π supplies two-sided all-directional normalization, G supplies substrate responsivity, and c⁴ supplies full source-profile conversion.
+The shortest compression is:
+κ packages how source-profile becomes answerable as geometry-response.
+V. Baseline, Action, Boundary, and Conservation Support
+The Einstein field equation is the primary facing relation in this ledger:
+G_μν = κT_μν
+But the equation does not stand alone.
+Several surrounding GR-facing structures help explain how the relation is selected, stabilized, bounded, conserved, and extended. This section translates four of those support structures:
+* the Λ baseline term;
+* whole-action architecture;
+* boundary accounting;
+* Bianchi / conservation compatibility.
+Each translation remains at role-shape or architecture-shape scope. None of them claims full formal closure.
+The first support structure is the Λ baseline term.
+The extended classical form is:
+G_μν + Λg_μν = κT_μν
+This ledger translates Λg_μν as metric-proportional baseline geometry response.
+The term is geometry-side. It belongs with geometry-response, not with source-profile. Its role is to report a baseline geometry response proportional to the metric itself. It is not exhausted by local source-profile in the same way as ordinary source-facing curvature response.
+Plainly:
+Λg_μν names a geometry-owned baseline response that can face source-profile in the same accounting relation.
+This translation does not derive Λ’s measured value. It does not settle Λ’s sign. It does not settle whether Λ should be interpreted as dark energy, vacuum energy, curvature baseline, cosmological behavior, or something else. It does not derive cosmology.
+It claims only this:
+Λg_μν has a translatable role as metric-proportional baseline geometry response.
+The current status is:
+role available; value, sign, placement convention, and interpretation open.
+This distinction matters because Λ can easily be misread. It is tempting to treat Λ as if it were simply another source term. That may be algebraically convenient in some presentations, but this ledger keeps the role distinction visible.
+As Λg_μν, the term is geometry-owned. It is proportional to the metric and belongs naturally on the geometry-response side of the accounting relation. If it is moved to the source side by convention, it can be read as an effective source. But the ledger must not confuse algebraic rearrangement with structural origin.
+The Structural Flow-facing distinction is:
+geometry-owned baseline response may be represented in different equation placements, but its role must not be erased.
+So the ledger allows placement convention to vary. It does not allow the role-shape to vanish.
+The safe statement is:
+Λg_μν is role-shape available as baseline geometry response, but its value, sign, placement, and physical interpretation are not closed here.
+The second support structure is whole-action architecture.
+A schematic classical form is:
+S ≈ ∫ R√|g| d⁴x + S_source + S_boundary
+This ledger translates that architecture as:
+geometry report + source report + boundary accounting.
+The action is not treated here as a fully derived object. Its role is to gather the relevant reports into one whole-owned selection structure.
+The geometry report says: the geometry side must report its contribution.
+The source report says: source-profile must report its contribution.
+The boundary report says: boundary or interface residue must belong to the whole, not remain as unmanaged leftover.
+This matters because the field equation cannot be responsibly treated as an isolated algebraic relation if the broader accounting architecture is incoherent. If geometry, source, and boundary are each accounted for by separate local bookkeepers, the result is not yet one GR-facing accounting whole.
+The whole-action translation therefore says:
+geometry reports; source reports; boundary belongs.
+That is the architecture-shape claim.
+The geometry report is associated classically with the geometry-action content:
+∫ R√|g| d⁴x
+At role-shape scope, this reports geometry-response into the accounting whole. The ledger does not claim to derive the full Einstein-Hilbert action proof. It does not claim that scalar curvature density has been fully derived from Structural Flow at all formal levels. It claims only that the geometry-action side has a translatable reporting role: geometry must report its contribution in a form capable of supporting source-facing geometry-response.
+The source report is associated with:
+S_source
+At role-shape scope, source action must report source-content consistently with the geometry-facing source-profile. It must not define source-profilehood into existence by notation alone. The source-profile burden comes first; the source action must answer to it.
+That order is important.
+The ledger does not claim full source-action derivation. It does not derive matter Lagrangians. It does not derive the empirical T_μν for any system. It only says that any source action used in the GR-facing architecture must be able to report source-content as geometry-facing source-profile.
+The boundary report is associated with:
+S_boundary
+At role-shape scope, boundary accounting is required because the whole owns the law.
+If lawful variation, interface behavior, or boundary conditions produce residue, that residue cannot float outside the accounting whole. It must be accounted for by a boundary term, admissible boundary condition, restricted variation class, derived interface rule, or an equivalent demonstration that no unmanaged residue remains.
+The rule is:
+if the whole selects the law, the boundary belongs to the whole.
+This is one of the cleanest support claims in the ledger.
+It does not close the exact boundary term. It does not derive its coefficient, sign, orientation convention, boundary-condition class, or full formal content. It closes the necessity of boundary accounting at role-shape scope.
+Classically, a boundary term may appear in a form like:
+S_boundary ≈ ∫_∂M K√|h| d³x
+This ledger does not claim exact derivation of that expression. It uses the expression only as a classical-facing marker of the role: the boundary must be owned by the whole accounting architecture.
+The third support structure is Bianchi / conservation compatibility.
+The classical geometry-side compatibility condition is:
+∇^μG_μν = 0
+The source-side compatibility condition is commonly written:
+∇^μT_μν = 0
+This ledger translates these as no-leak compatibility between geometry-response and source-profile.
+The point is not that Structural Flow derives all physical conservation laws here. It does not. The point is narrower: if geometry-response and source-profile are held in one equation, their accounting must remain compatible under lawful comparison.
+The geometry side cannot leak accounting.
+The source side cannot leak accounting.
+The relation must preserve compatibility under covariant comparison.
+This is why Bianchi / conservation compatibility belongs in the support layer. It is not the central facing relation itself. The central facing relation is G_μν = κT_μν. But that relation cannot be stable if the geometry side and source side do not carry their accounting compatibly.
+The geometry-side relation:
+∇^μG_μν = 0
+is read here as geometry-side accounting compatibility. It says the geometry-response side is not free to report arbitrary mismatch or leakage. Its structure is constrained by the geometry it belongs to.
+At role-shape scope:
+geometry-response must be internally compatible with the whole accounting relation.
+If geometry-side compatibility fails, geometry cannot provide a stable accounting side for the relation.
+The source-side relation:
+∇^μT_μν = 0
+is read here as source-side compatibility with geometry-response. It says source-profile cannot leak out of the accounting relation. If source-profile faces geometry-response, it must do so in a way compatible with the same lawful comparison structure.
+At role-shape scope:
+source-profile must remain compatible with geometry-response under covariant accounting.
+This does not mean the ledger derives full matter dynamics. It means that once T_μν stands as geometry-facing source-profile, it must satisfy the compatibility burden required by the equation.
+The support layer can be compressed this way:
+* Λg_μν = metric-proportional baseline geometry response
+* S ≈ ∫ R√|g| d⁴x + S_source + S_boundary = geometry report + source report + boundary accounting
+* ∇^μG_μν = 0 = geometry-side no-leak compatibility
+* ∇^μT_μν = 0 = source-side no-leak compatibility
+Or, in the shortest usable form:
+geometry reports; source reports; boundary belongs; accounting cannot leak.
+The current status is:
+GR-facing structure
+	Ledger translation
+	Status
+	Λg_μν
+	metric-proportional baseline geometry response
+	role available; value/sign/interpretation open
+	∫ R√
+	g
+	d⁴x
+	S_source
+	source report
+	role required; full source action open
+	S_boundary
+	boundary accounting
+	necessity available; exact term open
+	∇^μG_μν = 0
+	geometry-side no-leak compatibility
+	support translation available
+	∇^μT_μν = 0
+	source-side no-leak compatibility
+	support translation available; full dynamics open
+	This support layer earns useful translation. It does not close full GR.
+It does not derive Λ’s value, sign, or cosmological interpretation. It does not derive the full Einstein-Hilbert action. It does not derive matter Lagrangians. It does not derive the exact boundary term. It does not derive full physical conservation. It does not derive empirical T_μν.
+It claims only this:
+the support architecture around the Einstein field equation can be translated at role-shape and architecture-shape scope.
+That support architecture is enough to keep the central field relation from floating alone. Geometry-response and source-profile face each other through the field equation. The action architecture gathers geometry, source, and boundary into one whole-owned accounting structure. Conservation compatibility prevents the accounting from leaking. Λ preserves the possibility of a geometry-owned baseline response.
+With the field equation, κ package, and support architecture placed, the ledger can now translate what comes next: continuation and curvature remainder.
+The next movement is:
+the field equation conditions geometry; the geometry orders continuation; the geodesic is the centerline; local admissibility is the room around the line; Weyl is curvature not locally exhausted by source-profile.
+VI. Continuation, Local Admissibility, and Curvature Remainder
+The field equation matters deeply, but it is not the whole of GR.
+The Einstein field equation translates the central facing relation:
+G_μν = κT_μν
+At the level of this ledger, that means:
+source-facing geometry-response = source/geometry relation package × geometry-facing source-profile
+But once geometry-response and source-profile are held in one accounting relation, another question follows:
+what continuations are admissible in the geometry that has been conditioned?
+This is the continuation layer.
+The order matters. The ledger should not begin with the path. It should begin with the geometry-state.
+The sequence is:
+source-profile → geometry-response → geometry-state → lawful continuation
+Or, in the shorter form used throughout this artifact:
+load constrains geometry; geometry orders continuation.
+The geodesic equation belongs downstream of the field equation. It does not itself produce the geometry-state. It expresses preferred continuation within a geometry-state already available for comparison and traversal.
+A compact classical form is:
+∇_u u = 0
+This ledger translates the geodesic equation as:
+preferred continuation centerline on the load-conditioned geometry host.
+Plainly:
+once geometry is set, the geodesic is the clean centerline of lawful continuation.
+The geodesic expresses continuation governed by the connection. It gives the path of free continuation relative to the geometry-state. It says, at this layer, how continuation follows the geometry rather than introducing an additional force or external path rule.
+So the geodesic should not be treated as all of GR. It is not the field equation. It is not the source-profile. It is not the whole action architecture. It is not the full curvature story. It is a downstream continuation expression.
+The compression is:
+the field equation constrains geometry; the geodesic equation expresses how continuation follows that geometry.
+This leads to one of the most important bridge rules in the ledger:
+the geometry that load constrains must be the same geometry that continuation uses.
+This is the same-state handoff.
+If the field-equation block produces one geometry-state while the continuation block uses another, the GR translation fails. The field equation may remain locally intelligible. The geodesic equation may remain locally intelligible. But they do not form one coherent GR-facing translation if they do not share the same geometry-state.
+The failure signature is simple:
+load makes one geometry; motion uses another.
+That is a Drift-type failure in the translation architecture.
+So the ledger keeps this rule:
+same geometry in, same geometry out.
+The same-state handoff is especially important for the light-probe packet, because effective optical geometry may be smooth, patchwise, time-dependent, recurrent, or history-dependent. The ledger does not need to solve all those cases here. It only needs to preserve the handoff burden: whatever geometry is being used to order continuation must be the geometry actually supplied by the relevant load-conditioned or medium-conditioned state.
+The geodesic gives a centerline. Structural Flow also asks about the room around the line.
+That is the local admissibility layer.
+For the light-probe and local-admissibility work, this is expressed through the relation:
+κ_b · χ(γ, μ_b) ≤ τ_b
+where:
+* γ = candidate continuation
+* μ_b = local best-fit condition
+* χ(γ, μ_b) = mismatch between the candidate continuation and the local best-fit condition
+* κ_b = local selectivity or contrast strength
+* τ_b = local threshold or tolerance budget
+A candidate continuation remains locally admissible when its mismatch from the local best-fit condition stays within the local tolerance budget after being weighted by local selectivity.
+Plainly:
+fit must stay inside tolerance.
+This relation does not replace the geodesic equation. It does not claim to be full GR. It does not claim to derive physical thresholds or numerical parameters. It is a local margin grammar.
+The distinction is important.
+The geodesic is the preferred continuation centerline.
+Local admissibility asks what room remains around that line.
+In some settings, the centerline may be clear and the admissible room narrow. In other settings, the centerline may remain locally readable while admissibility margins fragment, drift, widen, narrow, recur, or become history-dependent. That is why the local admissibility grammar is useful for the light-probe experiment packet. It gives a way to discuss failure-regime profile families without pretending that every detail of the physical system has been solved.
+The admissibility relation has its own disciplined status:
+prediction grammar available; full physical law open.
+It can help describe local margin behavior around continuation. It does not derive numerical optical thresholds. It does not derive full fluid mechanics. It does not close photon theory. It does not replace classical optics or GR solution theory.
+The ledger can therefore use it safely if it keeps the status visible.
+The same caution applies to effective-geometry language.
+For optical work, one may sometimes use an effective-geometry expression such as:
+g^eff_μν k^μ k^ν = 0
+and, where geometric-optics continuation is valid:
+k^ν ∇^eff_ν k^μ = 0
+These expressions are useful as translation aids. They allow a structured medium to be described as supplying an effective optical landscape through which the light-probe continues.
+But they must not be overread.
+Effective optical geometry is not literal spacetime curvature by the fluid. It is not full GR optics. It is not photon theory. It is not Maxwell closure. It is not QED. It does not prove that the immiscible-fluid experiment is a gravitational experiment.
+The safe statement is:
+the light-probe may be represented as continuation in an effective optical geometry where such modeling is appropriate.
+The unsafe statement is:
+the fluid literally curves spacetime in the GR sense.
+The ledger supports the first statement. It does not support the second.
+The final piece in this movement is Weyl / curvature remainder.
+The Weyl or curvature-remainder role is translated here as:
+source-facing geometry is not all geometry.
+The Einstein field equation governs the local source-facing response of geometry. But full curvature contains geometry-state content not exhausted by local source-profile alone.
+In the classical GR inventory, the Weyl tensor is the matching object for this non-source-facing curvature remainder role.
+This matters because the ledger could otherwise overcompress GR into the field equation alone. That would be too narrow. G_μν = κT_μν is central, but source-facing geometry-response does not exhaust all curvature.
+Weyl preserves the remainder.
+Plainly:
+there is curvature content not locally exhausted by source-facing geometry-response.
+This role is important for tidal structure, gravitational radiation, vacuum curvature, global or nonlocal geometry behavior, and curvature degrees not fixed locally by T_μν. But this ledger does not close those topics. It does not derive the full Weyl tensor. It does not close Riemann decomposition, vacuum solution theory, gravitational waves, tidal behavior, initial-data machinery, or global curvature behavior.
+It only preserves the role:
+source-facing geometry is not all geometry.
+That is an anti-overclaim.
+Weyl prevents the ledger from treating the Einstein field equation as if it exhausts curvature. The field equation remains central, but it is not the whole curvature story.
+The continuation and remainder layer can be summarized this way:
+Layer
+	Classical-facing object
+	Ledger translation
+	Status
+	geodesic continuation
+	∇_u u = 0
+	preferred continuation centerline on load-conditioned geometry
+	role available
+	local admissibility
+	κ_b · χ(γ, μ_b) ≤ τ_b
+	room around continuation; fit inside tolerance
+	prediction grammar available
+	effective optical geometry
+	g^eff_μν k^μ k^ν = 0
+	medium supplies optical landscape
+	translation aid only
+	Weyl / curvature remainder
+	Weyl tensor / non-Ricci curvature role
+	source-facing geometry is not all geometry
+	remainder role available; formal closure open
+	same-state handoff
+	shared geometry host
+	load constrains the geometry continuation uses
+	required bridge
+	The shortest compression is:
+the field equation constrains geometry; geodesics express preferred continuation; local admissibility describes room around continuation; Weyl preserves geometry not exhausted by source.
+This movement earns useful translation.
+It earns the geodesic equation as preferred continuation centerline. It earns the field-equation / geodesic sequence as load → geometry-state → continuation. It makes the same-state handoff explicit. It allows local admissibility to describe the room around the line. It preserves Weyl as non-source-facing curvature remainder. It prevents the ledger from reducing all GR to the Einstein field equation alone.
+But it does not close full GR.
+It does not derive the geodesic equation from first principles. It does not close full motion theory. It does not close optical geodesics. It does not derive photon theory. It does not complete local admissibility physics. It does not supply numerical thresholds. It does not derive the Weyl tensor. It does not close tidal effects, gravitational waves, vacuum solution theory, exact solution-space analysis, or full GR completion.
+The status remains:
+continuation and curvature remainder have translatable roles in the GR ledger; full formal and empirical closure remains open.
+With the central equation, κ package, support architecture, continuation layer, same-state handoff, local admissibility, effective-geometry caution, and curvature remainder placed, the ledger can now close by naming what remains open.
+The final burden is discipline:
+use what is earned; mark what is open; do not smuggle closure.
+VII. Open Burdens, Proper Use, and Closing Compression
+This ledger translates foundational GR-facing roles at role-shape, equation-shape, relation-shape, and ratio-role scope.
+It does not close every formal or empirical burden carried by General Relativity.
+That distinction must remain visible at the end because the ledger is useful only if it marks both sides of the work: what has become available for responsible translation, and what remains open. If every successful role translation is treated as full derivation, the ledger overclaims. If earned role-shape structure is not named at all, the ledger underclaims.
+The correct status is:
+structural role translation available; full formal and empirical closure open.
+The ledger closes a translation map, not the whole physical theory.
+That map is meaningful. It allows foundational GR-facing structures to be read through Structural Flow with more discipline than analogy. It identifies source-facing geometry-response, geometry-facing source-profile, source/geometry coupling, baseline geometry response, action architecture, boundary accounting, no-leak compatibility, geodesic continuation, local admissibility, and curvature remainder.
+But it does not complete GR.
+A full derivation of General Relativity would require more than role-shape translation. It would require a stronger formal result: the complete mathematical machinery would have to follow with the required rigor, specificity, and necessity. That includes tensor calculus development, solution classes, coordinate and gauge issues, global structure, singularities, horizons, gravitational waves, observational predictions, and the full relation between formal structure and empirical systems.
+This ledger does not claim that.
+Current status:
+GR role-shape translation available; full GR derivation open.
+Measured constants remain open.
+The ledger translates κ as a source/geometry relation package:
+κ = 8πG / c⁴
+It gives role-shaped readings of 8π, G, and c⁴. But it does not derive their measured values. It does not derive the numerical value of G. It does not derive the numerical value of c. It does not derive the numerical value of κ. It does not provide the empirical calibration needed for physical prediction.
+Those remain Level 2 empirical content.
+Current status:
+ratio-role available; measured values open.
+Full empirical T_μν remains open.
+The ledger translates T_μν as geometry-facing source-profile. That is a role-shape translation. It does not derive every possible stress-energy tensor. It does not supply matter models, equations of state, field content, local source distributions, fluid stress-energy, electromagnetic stress-energy, scalar-field content, quantum-field content, or empirical source profiles.
+A real T_μν in applied GR carries formal and empirical content that this ledger does not close.
+The safe order is:
+1. identify the source-profile role;
+2. require source action and empirical content to report that profile consistently;
+3. leave specific physical T_μν content to domain physics and measurement.
+Current status:
+source-profile role available; full empirical T_μν open.
+Source action remains open.
+The ledger translates source action as source report. It does not derive the full source action. It does not derive matter Lagrangians. It does not derive the variational form of every source field. It does not claim that source action can be specified from Structural Flow alone at this scope.
+The narrower claim is:
+any source action used in the GR-facing architecture must report source-content consistently with the geometry-facing source-profile it is meant to supply.
+Current status:
+source-report necessity available; full source action open.
+Λ remains open beyond role-shape.
+The ledger translates Λg_μν as baseline metric-proportional geometry response. That role is available. But the ledger does not derive Λ’s measured value, sign, placement convention, cosmological behavior, vacuum-energy interpretation, dark-energy interpretation, or empirical role in observed cosmology.
+A placement convention may move Λg_μν to the source side and treat it as an effective source. That may be mathematically useful. But the ledger preserves the role distinction: as Λg_μν, the term is geometry-owned baseline response.
+Current status:
+Λ role available; value, sign, placement, and interpretation open.
+Boundary term content remains open.
+The ledger translates boundary accounting through the rule:
+if the whole selects the law, the boundary belongs to the whole.
+That closes the necessity of boundary accounting at role-shape scope. It does not close the exact boundary term. It does not derive the coefficient, sign, orientation convention, boundary-condition class, or full formal content of the term.
+Classically, a boundary term may appear in a form like:
+S_boundary ≈ ∫_∂M K√|h| d³x
+This ledger does not claim exact derivation of that expression. It uses the expression only as a classical-facing marker of the role: boundary residue must be owned by the whole accounting structure.
+Current status:
+boundary accounting necessity available; exact boundary term open.
+Full action proof remains open.
+The ledger translates whole-action architecture as:
+geometry report + source report + boundary accounting
+That is an architecture-shape translation. It does not prove the full Einstein-Hilbert action from Structural Flow. It does not close the exact action form, coefficient structure, variation class, boundary conditions, or full derivation from first principles.
+The safe claim is:
+the action architecture is translatable as a whole-owned accounting structure.
+The unsafe claim is:
+the full action proof is complete.
+Current status:
+action architecture translatable; full proof open.
+Full conservation derivation remains open.
+The ledger translates:
+∇^μG_μν = 0
+as geometry-side no-leak compatibility, and:
+∇^μT_μν = 0
+as source-side no-leak compatibility.
+That support translation is available. It does not derive every physical conservation law. It does not derive all matter dynamics. It does not close Noether structure in full. It does not specify every source condition under which conservation holds. It only places the compatibility burden required by the equation’s accounting structure.
+Current status:
+no-leak compatibility placed; full physical conservation derivation open.
+Geodesic and motion theory remain open.
+The ledger translates:
+∇_u u = 0
+as preferred continuation centerline on the load-conditioned geometry host.
+That does not close all motion theory. It does not close non-geodesic forces, optical geodesics, null geodesic closure, photon behavior, lensing predictions, deviation equations, tidal motion, matter-specific motion, or experimental trajectory prediction.
+The safe claim is:
+the geodesic is the continuation centerline in the geometry-state.
+The unsafe claim is:
+all motion, optics, or path behavior is closed.
+Current status:
+continuation centerline placed; full motion theory open.
+Local admissibility remains prediction grammar, not completed physical law.
+The ledger uses:
+κ_b · χ(γ, μ_b) ≤ τ_b
+as local continuation margin: the room around the line.
+That is useful for the light-probe packet because it gives the experiment a way to discuss margin behavior, profile families, and failure-regime deformation around continuation. But the relation does not yet supply numerical values of κ_b, μ_b, or τ_b. It does not give empirical measurement protocols for those parameters. It does not derive their exact relation to refractive index, fluid mechanics, optical thresholds, or domain-specific calibration.
+The safe claim is:
+local admissibility is prediction grammar for margin and failure behavior.
+The unsafe claim is:
+local admissibility is a completed physical law.
+Current status:
+margin grammar available; empirical calibration open.
+Weyl and curvature remainder remain open beyond role.
+The ledger translates Weyl as non-source-facing curvature remainder.
+That role matters because source-facing geometry is not all geometry. But the ledger does not derive the full Weyl tensor. It does not close tidal effects, gravitational radiation, vacuum curvature, global or nonlocal curvature structure, Petrov classification, exact metric examples, solution behavior, or empirical predictions.
+The safe claim is:
+Weyl preserves curvature not locally exhausted by source-profile.
+The unsafe claim is:
+Weyl physics is fully closed.
+Current status:
+remainder role available; formal Weyl program open.
+Light, photon, and optics remain open.
+The GR Translation Ledger supports cautious effective-geometry language for the light-probe artifact. It allows optical continuation through a structured medium to be discussed, where appropriate, through effective geometry.
+But it does not close light.
+It does not derive photon theory, Maxwell theory, QED, wave optics, polarization, interference theory, optical metric construction in each medium, null-geodesic optics, lensing behavior, wavelength dependence, or empirical optical predictions.
+The safe claim is:
+effective-geometry language may translate optical continuation where such modeling is appropriate.
+The unsafe claim is:
+full optics or photon theory is closed.
+Current status:
+effective-geometry support available; full light theory open.
+Quantum and Planck-scale bridges remain parked.
+This ledger does not need to close quantum gravity, Planck scale, A_*, the deeper h/ℏ program, QFT source structure, black-body radiation, photon ontology, or action quantum derivation.
+Those seams may matter later. They do not belong to this ledger’s current burden.
+The safe claim is:
+quantum and Planck-scale seams remain parked.
+The unsafe claim is:
+GR translation requires closing quantum or Planck structure now.
+Current status:
+parked.
+The closure status can be summarized as follows:
+Structure
+	Translation status
+	Open burden
+	G_μν
+	source-facing geometry-response
+	full derivation of all GR geometry not claimed
+	T_μν
+	geometry-facing source-profile
+	empirical source content and matter models open
+	κ
+	source/geometry relation package
+	measured value and full derivation open
+	8π
+	all-directional normalization role
+	deeper geometric derivation not completed here
+	G
+	stable substrate responsivity
+	measured value not derived
+	c⁴
+	full source-profile conversion
+	full relativity derivation not claimed
+	Λg_μν
+	baseline geometry-response
+	value, sign, cosmology, and interpretation open
+	action architecture
+	geometry report + source report + boundary accounting
+	full Einstein-Hilbert proof open
+	boundary accounting
+	boundary belongs to whole
+	exact term, sign, coefficient, and boundary class open
+	Bianchi / conservation
+	no-leak compatibility
+	full physical conservation derivation open
+	geodesic
+	continuation centerline
+	full motion theory and optical closure open
+	local admissibility
+	room around the line
+	numerical thresholds and full physical model open
+	Weyl
+	non-source-facing curvature remainder
+	full Weyl formalism and solution behavior open
+	effective optical geometry
+	optical continuation model layer
+	full optics and photon theory open
+	quantum / Planck seams
+	parked
+	outside current artifact scope
+	This ledger should be used as a translation control layer.
+It helps the reader ask:
+* What role does this GR-facing object play?
+* Is the role available at structural scope?
+* Is the equation-shape available?
+* Is the ratio-role available?
+* Is this a support condition rather than a primary relation?
+* What remains open?
+* What must not be claimed?
+It should slow down overclaiming. That is one of its main jobs.
+A translation ledger is not valuable because it says everything is closed. It is valuable because it shows which doors are open, which are cracked, which are locked, and which should not be touched yet.
+The ledger should not be used to claim full GR from Structural Flow. It should not be used to claim measured constants. It should not be used to claim full stress-energy content. It should not be used to claim photon theory, QED, or quantum gravity. It should not be used to replace classical GR. It should not be used to bypass domain mathematics. It should not be used to treat role-shape translation as empirical prediction. It should not be used to treat effective geometry as literal spacetime curvature in a fluid. It should not be used to treat the light-probe experiment as already confirmed.
+Its misuse would be to turn structural translation into premature closure.
+Its proper use is to keep translation honest.
+The ledger legitimately supports:
+1. using the Einstein field equation as a Rosetta object;
+2. translating G_μν as source-facing geometry-response;
+3. translating T_μν as geometry-facing source-profile;
+4. translating κ as source/geometry relation package;
+5. translating Λg_μν as baseline geometry-response;
+6. translating action architecture as geometry/source/boundary accounting;
+7. translating Bianchi / conservation as no-leak compatibility;
+8. translating the geodesic equation as continuation centerline;
+9. using local admissibility as margin grammar;
+10. preserving Weyl as curvature remainder;
+11. supporting effective-geometry language in the experiment artifact cautiously.
+It does not support total GR closure.
+The relationship to the experiment packet can now be stated cleanly.
+The experiment packet has three layers.
+The first layer proposes the test: independently classified immiscible-fluid failure regimes should produce distinguishable optical profile families when light is used as a probe.
+The second layer sharpens the operator and confound logic: each regime changes local optical admissibility differently, and each profile must be tested against ordinary confounds.
+This third layer controls GR-facing translation: foundational GR roles may be translated at role-shape and equation-shape scope without claiming full GR closure.
+Together, the packet says:
+here is the prediction, here is the operator discipline, and here is the translation boundary.
+That is the correct division of labor.
+The final compression of this ledger is:
+GR-facing equations can be read as structural accounting roles, but role-shape translation is not full derivation.
+The Einstein field equation becomes legible as:
+geometry answers; source presents; κ packages; Coherence holds.
+The support structures become legible as:
+geometry reports; source reports; boundary belongs; accounting cannot leak.
+The continuation layer becomes legible as:
+load constrains geometry; the same geometry orders continuation.
+The remainder layer becomes legible as:
+source-facing geometry is not all geometry.
+Those translations are useful.
+They are not total closure.
+The ledger’s final rule is therefore:
+translate where the role is earned; mark open where formal or empirical closure remains.
+That is enough for this artifact.
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, technical organization, equation-format cleanup, title development, and clarity. All substantive arguments, theoretical claims, scope decisions, technical framing, mathematical-status judgments, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foundational GR Translation Ledger under Structural Flow
+A Role-Shape and Equation-Shape Support Artifact for the Light-Probe Experiment Packet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+Rick
