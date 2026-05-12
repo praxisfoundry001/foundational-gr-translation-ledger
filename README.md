@@ -68,6 +68,6 @@ Upstream physics artifacts include:
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.20145254
 
 PDF available via DOI link once published.
